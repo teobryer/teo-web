@@ -1,9 +1,9 @@
 ---
-title: Test50
-subtitle: Support sustainable farming while enjoying a cup
+title: Test51
+subtitle: test subtitle
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: "Pourquoi la vie ? "
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
@@ -15,7 +15,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/icons-facebook.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
       of coffee beans grown with great care for the environment and local
